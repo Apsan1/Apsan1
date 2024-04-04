@@ -1,4 +1,7 @@
-### Hi there 👋
+# Apsan1    ![visitors](https://visitor-badge.glitch.me/badge?page_id=Apsan1.Apsan1)
+
+<!-- add gif -->
+<img src="imgs/hi-hello.gif" align="right" width="200" height="200">
 
 <!--
 **Apsan1/Apsan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +21,11 @@ Here are some ideas to get you started:
 <img src="imgs/Programming.png" align="right" width="400" height="400">
 
 <p size="20px">
+
 - 🌱 I’m currently working on Web-Development.
+
 -  I’m passively collaborating on Open Source Projects. 
+
 </p>
 
 
