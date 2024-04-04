@@ -2,60 +2,43 @@
     Apsan
 </h1>
 
-<!-- add gif -->
-
-<p align="left">
+<p align="justify">
     Exceling in the field of Computer Science and Information Technology, I am a student of Herald College Kathmandu. I am a passionate programmer and a software developer. I am a quick learner and a team player. I am always eager to learn new things and to come up with new ideas.
 </p>
 
-<p align= "right">
-    Professional Experience
+<p align= "justify">
+    
+## Professional Experience 🏢
 
-    None
-    Graphic Designer / Software Developer / Social Media Handler
-    Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal
-    Created concept logos and developed accounting tools.
-    Managed social media platforms.
+###  Senior Designer & Innovation Consultant at 🪖
+#### K. Anil Trading Company, Cambodia
+- Official Web-Developer, [Check Out Here](https://www.kaniltrading.com.kh)
+- and Infrastructure Visualizer for largest workshop.
 
-    None
-    Senior Designer & Innovation Consultant
-    K. Anil Trading Company, Cambodia
-    Official Web-Developer,
-    and Infrastructure Visualizer for largest workshop.
 
-    None
-    Secondary Level Education Instructor
-    Study School, Banasthali, Thankot, Kathmandu, Nepal
-    Teaching students about:
-    Modern Science,
-    Technology,
-    and Computational Skills.
+### Graphic Designer / Software Developer at
+####    Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal 🕉️
+- Official Web-Developer,
+- and Infrastructure Visualizer for local cooperative.
+
+
+### Secondary Level Tutor at
+#### Study School, Nepal 🏫
+- Modern Science, 
+- and Computational Skills. Check Out [Here](https://maps.app.goo.gl/zXP19NftPUCmeXe7A) 
+
 </p>
 
-<!--
-**Apsan1/Apsan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 
+<img src="imgs/Programming.png" align="left" width="200" height="200">
 
-Here are some ideas to get you started:
+<p size="20px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working on Web-Development and various other platforms sharpening my skills.
 
-<img src="imgs/Programming.png" align="right" width="400" height="400" display="inline-block">
-
-<p size="20px" display="inline-block">
-
-- 🌱 I’m currently working on Web-Development.
-
--  I’m passively collaborating on Open Source Projects. 
+-  I’m passively collaborating on Open Source Projects and contributing to the community. 
 
 </p>
 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apsan/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apsan/), apsanrana61@gmail.com
