@@ -1,7 +1,9 @@
-# Apsan1    ![visitors](https://visitor-badge.glitch.me/badge?page_id=Apsan1.Apsan1)
+<center> 
+# Apsan1 
+</center>
 
 <!-- add gif -->
-<img src="imgs/hi-hello.gif" align="left" width="200" height="200">
+
 
 <!--
 **Apsan1/Apsan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
