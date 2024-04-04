@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <img src="imgs/Programming.png" align="right" width="400" height="400">
+
+<p size="20px">
+- 🌱 I’m currently working on Web-Development.
+-  I’m passively collaborating on Open Source Projects. 
+</p>
+
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apsan/)
