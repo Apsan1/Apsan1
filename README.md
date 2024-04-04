@@ -25,7 +25,7 @@
 ### Secondary Level Tutor at
 #### Study School, Nepal 🏫
 - Modern Science, 
-- and Computational Skills. Check Out [Here](https://maps.app.goo.gl/zXP19NftPUCmeXe7A) 
+- and Computational Skills. [Check Out Here](https://maps.app.goo.gl/zXP19NftPUCmeXe7A) 
 
 </p>
 
@@ -43,6 +43,14 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apsan/), apsanrana61@gmail.com
 
+<br><br><br>
+
 #
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=blueberry-duo)](https://git.io/streak-stats)
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=blueberry-duo)](https://git.io/streak-stats)
+
+</div>
+
+
