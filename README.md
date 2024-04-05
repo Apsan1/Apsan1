@@ -55,10 +55,10 @@
 #
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/chibi-dancing-right.gif" width="250" height="250" align="left">
+    <img src="imgs/chibi-dancing-right.gif" width="180" height="180" align="left">
     
    [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=blueberry-duo)](https://git.io/streak-stats)
-   <img src="imgs/chibi-dancing-left.gif" width="250" height="250" align="right">
+   <img src="imgs/chibi-dancing-left.gif" width="180" height="180" align="right">
 </div>
 
 
