@@ -1,5 +1,5 @@
 <div id="me" align="center">
-<img src="imgs/prfp.jpg" width="200" height="200" style="border-radius: 50%;">
+<img src="imgs/prfp.png" width="200" height="200" style="border-radius: 50%;">
 <h1 align="center">
    ✨ Apsan ✨
 </h1>
