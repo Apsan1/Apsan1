@@ -54,13 +54,11 @@
 
 #
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-<img src="imgs/chibi-dancing.gif" width="150" height="150" align="left">
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=blueberry-duo)](https://git.io/streak-stats)
-
-<img src="imgs/chibi-dancing.gif" width="150" height="150" align="right">
-
+<div style="display: flex; align-items: center;">
+    <img src="imgs/chibi-dancing-right.gif" width="250" height="250" align="left">
+    
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=blueberry-duo)](https://git.io/streak-stats)
+   <img src="imgs/chibi-dancing-left.gif" width="250" height="250" align="right">
 </div>
+
 
