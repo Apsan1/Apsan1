@@ -1,8 +1,15 @@
+<div id="me" align="center">
+<img src="imgs/prfp.jpg" width="200" height="200" style="border-radius: 50%;">
 <h1 align="center">
-    Apsan
+   ✨ Apsan ✨
 </h1>
+</div>
+<br>
 
 <p align="justify">
+<h2>
+  About Me 🧑‍💻
+</h2>
     Exceling in the field of Computer Science and Information Technology, I am a student of Herald College Kathmandu. I am a passionate programmer and a software developer. I am a quick learner and a team player. I am always eager to learn new things and to come up with new ideas.
 </p>
 
@@ -30,7 +37,7 @@
 </p>
 
 # 
-<img src="imgs/Programming.png" align="left" width="200" height="200">
+<img src="imgs/typing.gif" align="left" width="300" height="200">
 
 <p size="20px">
 
@@ -47,10 +54,13 @@
 
 #
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<img src="imgs/chibi-dancing.gif" width="150" height="150" align="left">
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=blueberry-duo)](https://git.io/streak-stats)
 
-</div>
+<img src="imgs/chibi-dancing.gif" width="150" height="150" align="right">
 
+</div>
 
