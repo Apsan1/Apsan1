@@ -1,5 +1,14 @@
 <div id="me" align="center">
-<img src="imgs/prfp.png" width="200" height="200" style="border-radius: 50%; border: 1px white solid;">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+  <circle cx="150" cy="150" r="100" fill="transparent" stroke="#cfcfd9" stroke-width="2"/>
+  <clipPath id="clipCircle">
+    <circle cx="150" cy="150" r="100"/>
+  </clipPath>
+  <image href="imgs/prfp.png" width="290" height="250" clip-path="url(#clipCircle)"/>
+</svg>
+
+</div>
+
 <h1 align="center">
    ✨ Apsan ✨
 </h1>
