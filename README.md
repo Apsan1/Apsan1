@@ -1,5 +1,5 @@
 <div id="me" align="center">
-<img src="imgs/prfp.png" width="200" height="200" style="border-radius: 50%;">
+<img src="imgs/prfp.png" width="200" height="200" style="border-radius: 50%; border: 1px white solid;">
 <h1 align="center">
    ✨ Apsan ✨
 </h1>
@@ -17,15 +17,15 @@
     
 ## Professional Experience 🏢
 
-###  Senior Designer & Innovation Consultant at 🪖
-#### K. Anil Trading Company, Cambodia
+###  Developer & Innovation Consultant at
+#### K. Anil Trading Company ⚙️, Cambodia
 - Official Web-Developer, [Check Out Here](https://www.kaniltrading.com.kh)
 - and Infrastructure Visualizer for largest workshop.
 
 
 ### Graphic Designer / Software Developer at
-####    Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal 🕉️
-- Official Web-Developer,
+#### Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal 🕉️
+- Official Web-Developer, ⚒️ { Under Development }
 - and Infrastructure Visualizer for local cooperative.
 
 
