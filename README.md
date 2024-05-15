@@ -61,7 +61,7 @@
 <div style="display: flex; align-items: center;">
     <img src="imgs/chibi-dancing-right.gif" width="150" height="150" align="left">
     
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=blueberry-duo)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=modern-lilac2)](https://git.io/streak-stats)
    <img src="imgs/chibi-dancing-left.gif" width="150" height="150" align="right">
 </div>
 
