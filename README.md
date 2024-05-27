@@ -21,16 +21,15 @@
     
 ## Professional Experience 🏢
 
-###  Developer & Innovation Consultant at
+###  Web Developer at
 #### K. Anil Trading Company ⚙️, Cambodia
-- Official Web-Developer, [Check Out Here](https://www.kaniltrading.com.kh)
+- [Check Out Here](https://www.kaniltrading.com.kh)
 - and Infrastructure Visualizer for largest workshop.
 
 
-### Graphic Designer / Software Developer at
+### Logo Designer at
 #### Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal 🕉️
-- Official Web-Developer, ⚒️ { Under Development }
-- and Infrastructure Visualizer for local cooperative.
+- Web-Developer, ⚒️
 
 
 ### Secondary Level Tutor at
