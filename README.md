@@ -12,7 +12,7 @@
 
 <p align="justify">
 <h2>
-  About Me 🧑‍💻
+  About Me
 </h2>
     Exceling in the field of Computer Science and Information Technology, I am a student of Herald College Kathmandu. I am a passionate programmer and a software developer. I am a quick learner and a team player. I am always eager to learn new things and to come up with new ideas.
 </p>
@@ -22,18 +22,17 @@
 ## Professional Experience 🏢
 
 ###  Web Developer at
-#### K. Anil Trading Company ⚙️, Cambodia
+#### K. Anil Trading Company , Cambodia
 - [Check Out Here](https://www.kaniltrading.com.kh)
 - and Infrastructure Visualizer for largest workshop.
 
 
 ### Logo Designer at
-#### Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal 🕉️
-- Web-Developer, ⚒️
+#### Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal
 
 
 ### Secondary Level Tutor at
-#### Study School, Nepal 🏫
+#### Study School, Nepal
 - Modern Science, 
 - and Computational Skills. [Check Out Here](https://maps.app.goo.gl/zXP19NftPUCmeXe7A) 
 
@@ -44,7 +43,7 @@
 
 <p size="20px">
 
-- 🌱 I’m currently working on Web-Development and various other platforms sharpening my skills.
+- I’m currently working on Web-Development and various other platforms sharpening my skills.
 
 -  I’m passively collaborating on Open Source Projects and contributing to the community. 
 
