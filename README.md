@@ -21,15 +21,15 @@
     
 ## Professional Experience 🏢
 
-###  Web Developer at
+### Front-End Developer at
+#### One Loop Studio , Lalitpur, Nepal
+- [Narzo WooCommerce](https://woocommerce.com/products/narzo/)
+- [Gutenify Blocks](https://gutenify.com)
+
+###  Web Developer at 
 #### K. Anil Trading Company , Cambodia
 - [Check Out Here](https://www.kaniltrading.com.kh)
 - and Infrastructure Visualizer for largest workshop.
-
-
-### Logo Designer at
-#### Shree JwalaDevi Multipurpose Cooperative Ltd., Nepal
-
 
 ### Secondary Level Tutor at
 #### Study School, Nepal
