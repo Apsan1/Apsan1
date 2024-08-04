@@ -65,7 +65,7 @@ Templates
 
 <div style="display: flex; align-items: center;">
    
-
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Apsan1&theme=modern-lilac2)](https://git.io/streak-stats)
    
 </div>
 
