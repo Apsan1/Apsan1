@@ -24,8 +24,6 @@
 
 ### Front-End Developer at
 #### One Loop Studio , Lalitpur, Nepal
-- [Narzo WooCommerce](https://woocommerce.com/products/narzo/)
-- [Gutenify Blocks](https://gutenify.com)
 
 ###  Web Developer at 
 #### K. Anil Trading Company , Cambodia
