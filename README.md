@@ -25,8 +25,8 @@
 ### Front-End Developer at
 #### One Loop Studio , Lalitpur, Nepal
 
-###  Web Developer at 
-#### K. Anil Trading Company , Cambodia
+###  Web Operations Manager at 
+#### K. Anil Trading Company , Cambodia/ Nepal
 - [Check Out Here](https://www.kaniltrading.com.kh)
 - and Infrastructure Visualizer for largest workshop.
 
