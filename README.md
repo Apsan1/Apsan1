@@ -23,17 +23,18 @@
 ## Professional Experience 🏢
 
 ### Front-End Developer at
-#### One Loop Studio , Lalitpur, Nepal
+#### One Loop Studio, Lalitpur, Nepal
+- Web Development
 
-###  Web Operations Manager at 
+###  Web Manager at 
 #### K. Anil Trading Company , Cambodia/ Nepal
 - [Check Out Here](https://www.kaniltrading.com.kh)
 - and Infrastructure Visualizer for largest workshop.
 
-### Secondary Level Tutor at
-#### Study School, Nepal
-- Modern Science, 
-- and Computational Skills. [Check Out Here](https://maps.app.goo.gl/zXP19NftPUCmeXe7A) 
+###  Managing Director at 
+#### SG Driving Center , Kathmandu, Nepal
+- [Check Out Here](https://www.siddhiganeshdrivingcenter.com.np)
+- Supervise the official, social media and online presence work.
 
 </p>
 
